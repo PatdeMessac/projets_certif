@@ -1,3 +1,36 @@
+
+
+
+Pense bête MD
+
+*** Code Mardown ***
+*********************
+
+
+[google] (http://www.google.com "link to google")
+
+
+> Citation 1
+<!-- -->
+> Citation 2
+
+
+
+
+
+1 header | header 2 | 3 header
+- |:-: | -:
+line `1` | **1** | **_valeur_**
+Line 2 | 2 | *Value*
+
+
+
+Openclassrooms : 
+
+>http://10.0.2.73/apprenants/doc/www.openclassroms.com_rediger-correctement-un-cahier-des-charges.pdf
+
+
+
 Première ébauche du cahier des charges
 
 
@@ -42,27 +75,25 @@ Etat des lieux de la situation actuelle:
             2. Absence de mise en lien des profiles aux offres susceptibles . (Façon Pôle emploi)
 
 
-Besoin exprimé par les utilisateurs:
+Besoins exprimés par les utilisateurs:
     
-    -> Appli destinée principalement aux employés de FACE.
-    -> Une fonction de recherche efficace et rapide qui permet de retrouver une page descriptive sur toutes les actions menées pour le flux et le suivi.
-
-
-    -> Un agenda centralisé pour les employés de FACE (de façon que chacun connaisse les disponibilités de l'autres pour lui assigner un flux)
-    -> Un suivi des actions menées par l'employé sur une période donnée
-    -> Un système de mailing intégré avec envoi automatique aux dates de suivi.
-    -> Un système de messagerie interne.
-    -> Un système de reminder (notifications) pour les différents rendez-vous.
-    -> Un système de gestion des fichiers et des offres d'emplois.
-    -> Prévoir un usage à grande échelle (Face France 64 utilisateur).
-    -> Compte supérieur (corps de direction) avec des privilèges supp et une possibilité d’avoir une vision globale des flux.
+    - Appli destinée principalement aux employés de FACE.
+    - Une fonction de recherche efficace et rapide qui permet de retrouver une page descriptive sur toutes les actions menées pour le flux et le suivi.
+    - Un agenda centralisé pour les employés de FACE (de façon que chacun connaisse les disponibilités de l'autres pour lui assigner un flux)
+    - Un suivi des actions menées par l'employé sur une période donnée
+    - Un système de mailing intégré avec envoi automatique aux dates de suivi.
+    - Un système de messagerie interne.
+    - Un système de reminder (notifications) pour les différents rendez-vous.
+    - Un système de gestion des fichiers et des offres d'emplois.
+    - Prévoir un usage à grande échelle (Face France 64 utilisateur).
+    - Compte supérieur (corps de direction) avec des privilèges supp et une possibilité d’avoir une vision globale des flux.
 
 
      # Quels sont ces privilège et qui a le droit de faire quoi:
-            CRUD -> Création d’un compte
+            CRUD - Création d’un compte
          -> Suppr d’un compte après démission ou fin de contrat
-            -> répartition des flux vers d’autres employés
-            -> possibilité d’annuler les rendez-vous.
+            - répartition des flux vers d’autres employés
+            - possibilité d’annuler les rendez-vous.
 
 
 
@@ -78,28 +109,5 @@ Besoin exprimé par les utilisateurs:
 * Une messagerie interne pour demander l'autorisation à ses collègues.
 
 
-
-
-Pense bête MD
-
-*** Code Mardown ***
-*********************
-
-
-[google] (http://www.google.com "link to google")
-
-
-> Citation 1
-<!-- -->
-> Citation 2
-
-
-
-
-
-1 header | header 2 | 3 header
-- |:-: | -:
-line `1` | **1** | **_valeur_**
-Line 2 | 2 | *Value*
 
 
