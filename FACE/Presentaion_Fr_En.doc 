@@ -1,0 +1,34 @@
+Interface applicative pour FACE:
+
+ l’InterFace (CamelCase) Fr1.0
+
+Présentation: 
+ 
+	La Fondation FACE, spécialisée dans l’insertion professionnelle a demandé à la Code Académie de lui réaliser une application afin de centraliser et de gérer ses données, ses agendas et différentes fonctionnalités. 	Les employés de FACE n’ont pas d’outils collaboratifs leur simplifiant l’organisation et le suivi de leur «flux». La gestion des agendas est personnelle et problématique, la gestion des personnes en insertion est aussi compliquée en cas d’absence de leur référent. 
+	Le suivi effectué par FACE est un suivi à long terme en vue d’une insertion professionnelle positive. Au cours des mois de ce suivi, le personnel de FACE doit pouvoir renseigner et connaître le parcours des Flux et avoir donc accès à leur dossier et pouvoir les mettre à jour. 
+	Ainsi l’application sera réalisée de façon à ce que chaque employé de FACE puisse interagir avec ses collaborateurs de différentes façon. 
+	De plus il est important pour les collaborateurs d’avoir un outil digne d’un moteur de recherche pour trouver rapidement toutes les informations notées dans le dossier du Flux. Et là encore les changer si besoin. 	L’Interface sera donc un outil fonctionnel personnel et aussi et surtout un outil collaboratif intuitif de qualité.
+
+
+
+
+
+
+
+
+
+
+
+
+API for FACE Foundation
+
+The InterFace (CamelCase) En_1.0
+
+Presentation :
+
+FACE Foundation which has been specialized for years in professional retraining, asked the Code Académie to create an application able to centralize and manage its datas, agendas and different features.
+	FACE employees do not have tools to simply and efficiently collaborate so as to organize and follow their Flows. Managing its own agenda is personal and problem-leading, people in retraining encounter difficulties if their referent is absent.
+	The Flows following made by FACE is a long time follow for a positive professionnal retraining. During these months, employees must be able to see, share and change Flows files.
+	So, the application will be thought in a way every employee can collaborate and interact with each other in different ways.   
+	Moreover, it is crucial that the interface proposes a search engine to find fast any pieces of information stockpiled in the file of a Flow. Once again the employee must be able to change these informations if needed.
+The InterFace will thus be a personnel and fonctional tool but also an intuitive and collaborative tool of quality.
