@@ -1,4 +1,4 @@
-Interface applicative pour FACE:
+﻿Interface applicative pour FACE:
 
  l’InterFace (CamelCase) Fr1.0
 
@@ -24,7 +24,7 @@ API for FACE Foundation
 
 The InterFace (CamelCase) En_1.0
 
-Presentation :
+Presentation:
 
 FACE Foundation which has been specialized for years in professional retraining, asked the Code Académie to create an application able to centralize and manage its datas, agendas and different features.
 	FACE employees do not have tools to simply and efficiently collaborate so as to organize and follow their Flows. Managing its own agenda is personal and problem-leading, people in retraining encounter difficulties if their referent is absent.

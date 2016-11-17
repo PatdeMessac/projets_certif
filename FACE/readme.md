@@ -2,7 +2,9 @@
 
 FACE Rennes (Fondation Agir Contre l'Exclusion) est une association spécialisée dans l'insertion professionnelle. Elle fait partie d'un réseau plus dense d'associations présentes sur tout le territoire.
 
-Pour mener à bien sa mission d'insertion, FACE Rennes a recours à différentes méthodes et formations. L'une d'entre-elles est la réception de "flux". 
+Pour mener à bien sa mission d'insertion, FACE Rennes a recours à différentes méthodes et formations. 
+
+L'une d'entre-elles est la réception de "flux". 
 
 Définition FLUX :
 Un flux est une personne qui se rend physiquement aux locaux de FACE Rennes (avec ou sans rendez-vous) et qui souhaite recevoir l'expertise de l'association sur des sujets liés à l'insertion professionnelle : 
@@ -20,7 +22,7 @@ Au vu des exemples d'ateliers cités précédemment, c'est une activité très c
 
 En effet, après un entretien à son premier passage, le flux sera assigné à un employé de FACE qui aura alors pour charge de le suivre dans son insertion professionnelle et de faire des états de sa situation à 3, 6  et 9 mois après son insertion.
 
- Le "FLUX" devient alors un "SUIVI" et un ensemble d'entretiens entre l'employé de FACE et le "suivi" se feront jusqu'à ce que la situation professionnelle du "suivi" soit considérée comme stable ou que celui-ci n'ait plus besoin des services de FACE.
+Le "FLUX" devient alors un "SUIVI" et un ensemble d'entretiens entre l'employé de FACE et le "suivi" se feront jusqu'à ce que la situation professionnelle du "suivi" soit considérée comme stable ou que celui-ci n'ait plus besoin des services de FACE.
 
 FACE Rennes a 18 années d'ancienneté dans son domaine et 2 à 4 employés qui ont eux-même à charges plusieurs dizaines de flux. 
 
@@ -37,7 +39,6 @@ FACE souhaite donc moderniser sa gestion des flux et demande la réalisation  d'
 
 * Un système de mailing intégré avec envoi automatique aux dates de
  suivi.
-
 
 * Un système de messagerie interne.
 
@@ -58,7 +59,7 @@ Les décisions finales quant aux choix des fonctionnalités importantes de l'app
 
 Afin d'éclaircir notre besoin applicatif. Vous trouverez ci-dessous trois exemples d'utilisations de l'application : 
 
-* **John Doe ** :
+* **John Doe** :
 
 _John a 1 an et demi d'ancienneté à FACE Rennes, elle a eu l'occasion de gérer plusieurs dizaines de suivis.
 
@@ -78,12 +79,6 @@ Elle a donc besoin :
 _Sfia a un rendez-vous avec un de ses flux qu'elle n'a pas vu depuis longtemps_
 
 Elle a besoin de connaître les différents éléments liés à ce flux (documents et actions menées) et de rajouter de nouveaux éléments. Elle souhaite voir rapidement ces informations au cours des 5-10mns qui séparent son rendez-vous précédent et celui-ci.
-
-
-
-
-
-
 
 Elle a donc besoin :
 
